@@ -1,14 +1,14 @@
 {
   "channel": "test",
-  "version": "0.1.275-p4-dev",
-  "build": 275,
-  "elf_sha256": "252c17b9f825ff06481f7a4bb4fb30678d2097604c81728c9dcb5f3b9b5275d5",
-  "url": "https://github.com/Mikey1774/micro-radar-p4-firmware/releases/download/b275-252c17b9/micro-radar-p4.bin",
+  "version": "0.1.276-p4-dev",
+  "build": 276,
+  "elf_sha256": "745e483a4d15086372550370d76c696f327dc1b0483eefbf0a64f3c8a5c27ac5",
+  "url": "https://github.com/Mikey1774/micro-radar-p4-firmware/releases/download/b276-745e483a/micro-radar-p4.bin",
   "size": 3936256,
-  "sha256": "601fcd44d8170f7bcf21e4a0c4124cad00479c1c15ed1d426da4ef7310fe20c6",
-  "commit": "f75e8a370e55f7b013a675c84bb1e33fe4697bbc",
+  "sha256": "a97d79bd731f62d2a5bc455edaa3ff9b270bf68c7562c9f62998b286d2f9767d",
+  "commit": "70ee84170120c84f02cf59b91e4420b2da712809",
   "notes": [
     "First update over WiFi"
   ],
-  "published": "2026-09-29T19:00:34Z"
+  "published": "2026-09-29T19:30:32Z"
 }
